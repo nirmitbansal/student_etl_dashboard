@@ -1,0 +1,11 @@
+student_id,name,course,year,subject,marks,total_classes,attended_classes,attendance_percentage,grade
+101,Amit Sharma,BCA,1,Math,85,100,95,95.0,A
+101,Amit Sharma,BCA,1,English,78,100,95,95.0,B
+102,Priya Singh,BCA,1,Math,90,100,92,92.0,A
+102,Priya Singh,BCA,1,English,88,100,92,92.0,A
+103,Rahul Verma,BCA,1,Math,40,100,70,70.0,C
+103,Rahul Verma,BCA,1,English,52,100,70,70.0,C
+104,Neha Patel,BCA,1,Math,72,100,85,85.0,B
+104,Neha Patel,BCA,1,English,75,100,85,85.0,B
+105,Arjun Mehta,BCA,1,Math,30,100,60,60.0,F
+105,Arjun Mehta,BCA,1,English,45,100,60,60.0,C
